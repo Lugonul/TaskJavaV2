@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MainV2 {
+public class Main {
     public static String culc(String input) throws Exception {
         int a;
         int b;
